@@ -4,6 +4,17 @@ The Titanic passenger list is being used for a classification task: Given the da
 
 ### Technologies I have used for this project:
 
+How I have done this Project:
+- Exploring the Titanic dataset
+
+- Training a Logistic Regression classification model
+
+- Creating features using one-hot encoding
+
+- Calculating the train and validation accuracy (Cross Validation)
+
+- Training a Random Forest classification model
+
 Libraries:
 - Pandas
 - matplotlib.pyplot
